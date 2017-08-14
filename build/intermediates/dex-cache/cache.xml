@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\GitHub\AndroidP2P\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\GitHub\AndroidP2P\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1a7c8a5cd84b06a6cc747cad8bc71fa458089968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GitHub\AndroidP2P\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d62d2abb04501ed315f6c3435bf35848fc7b0ae">
+        <dex dex="E:\GitHub\AndroidP2P\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5cf67b09d97dd5bd72e3008c1d46a8efd6832b42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.3\91ac0b4c3a38b721c7548baa239950f23b65b56e\gson-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91ac0b4c3a38b721c7548baa239950f23b65b56e">
+        <dex dex="E:\GitHub\AndroidP2P\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.3_dc8478653367f11fb8fdf760afd113c45a3a5b9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\GitHub\AndroidP2P\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_6c552d9974722d0c5c46936d8f291da566971451\classes.dex" />
+    </item>
+
+</items>
